@@ -78,7 +78,7 @@ Kemudian generate key
 ```console
 php artisan key:generate
 ```
-Setelah itu import database attend2.sql ke phpmyadmin, tidak perlu migrate dan seed dan ubah dalam file .env menjadi
+Setelah itu import database attend2.sql ke phpmyadmin, dan ubah dalam file .env menjadi
 
 DB_CONNECTION=mysql
 
